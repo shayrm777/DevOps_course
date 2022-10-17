@@ -208,12 +208,32 @@ def ex_10():
             print(f"{i} ", end='')
     print(f"\nThere are {count} prime numbers between 0 to 100")
 
+# find the sum of all even numbers from 0 to 10
 #ex_2()
+
+# read three numbers (a,b,c) and check how many
+# numbers between ‘a’ and ‘b’ are divisible by ‘c’
 #ex_3()
+
+# get the following output
+# 1-----99
+# 2-----98
 #ex_4()
+
+# produce the next five IP address
 #ex_5()
+
+#print the factorial of a given number
 #ex_6()
+
+# Printing the first 10 Fibonacci numbers:
 #ex_7()
+
+#enter a number to create triangle shape
 #ex_8()
+
+# Enter a number to check if it is prime or not.
 #ex_9()
-ex_10()
+
+# printing all the prime numbers from 0 to 100...
+#ex_10()
